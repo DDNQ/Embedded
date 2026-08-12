@@ -1,0 +1,25 @@
+{
+  "name": "Ventilation Control",
+  "short_name": "VentCtrl",
+  "description": "Bi-Directional Smart Ventilation Tuning System — live dashboard",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1c2521",
+  "theme_color": "#1c2521",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
